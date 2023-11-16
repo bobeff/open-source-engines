@@ -7,6 +7,7 @@
 - [Common Lisp](#common-lisp)
 - [JavaScript](#javascript)
 - [Lua](#lua)
+- [Pascal](#pascal)
 - [Rust](#rust)
 
 ## C# <span id="c-sharp">
@@ -43,6 +44,10 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 ## Lua
 
 - **[LÖVE](https://love2d.org)** - An *awesome* framework you can use to make 2D games in Lua. [[source]](https://github.com/love2d/love)
+
+## Pascal
+
+- **[Castle Game Engine](https://castle-engine.io)** - Cross-platform (desktop, mobile, console) 3D and 2D game engine. [[source]](https://github.com/castle-engine/castle-engine)
 
 ## Rust
 
