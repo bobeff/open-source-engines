@@ -22,7 +22,13 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[Godot](https://godotengine.org)** - A free, all-in-one, cross-platform game engine that makes it easy for you to create 2D and 3D games. [[source]](https://github.com/godotengine/godot)
 
+- **[Irrlicht](https://irrlicht.sourceforge.io)** - An open source realtime 3D engine. [[source]](https://github.com/zaki/irrlicht)
+
 - **[Minetest](https://www.minetest.net)** - An open source voxel game engine. [[source]](https://github.com/minetest/minetest)
+
+- **[O3DE](https://o3de.org)** - The open source, real-time 3D engine. [[source]](https://github.com/o3de/o3de)
+
+- **[Ogre](https://www.ogre3d.org)** - One of the most popular open-source graphics rendering engines. [[source]](https://github.com/OGRECave/ogre)
 
 - **[Spring](https://springrts.com)** - A free RTS game engine. [[source]](https://github.com/spring/spring)
 
