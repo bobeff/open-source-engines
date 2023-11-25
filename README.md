@@ -9,6 +9,7 @@
 - [JavaScript](#javascript)
 - [Lua](#lua)
 - [Pascal](#pascal)
+- [Python](#python)
 - [Rust](#rust)
 
 ## C
@@ -53,6 +54,12 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 ## Pascal
 
 - **[Castle Game Engine](https://castle-engine.io)** - Cross-platform (desktop, mobile, console) 3D and 2D game engine. [[source]](https://github.com/castle-engine/castle-engine)
+
+## Python
+
+- **[Pygame](https://www.pygame.org)** - A free and open-source cross-platform library for the development of multimedia applications like video games using Python. [[source]](https://github.com/pygame/pygame)
+
+- **[Pyxel](https://www.pyxelstudio.net)** - A retro game engine for Python. [[source]](https://github.com/kitao/pyxel)
 
 ## Rust
 
