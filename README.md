@@ -14,6 +14,8 @@
 
 ## C
 
+- **[raylib](https://www.raylib.com)** -  A simple and easy-to-use library to enjoy videogames programming. [[source]](https://github.com/raysan5/raylib)
+
 - **Xash3D FWGS Engine** - Xash3D FWGS is a game engine, aimed to provide compatibility with Half-Life Engine and extend it, as well as to give game developers well known workflow. [[source]](https://github.com/FWGS/xash3d-fwgs)
 
 ## C# <span id="c-sharp">
