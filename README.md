@@ -43,6 +43,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[Ogre](https://www.ogre3d.org)** - One of the most popular open-source graphics rendering engines. [[source]](https://github.com/OGRECave/ogre)
 
+- **[SFML](https://www.sfml-dev.org)** -  A simple interface to the various components of your PC, to ease the development of games and multimedia applications. [[source]](https://github.com/SFML/SFML)
+
 - **[Spring](https://springrts.com)** - A free RTS game engine. [[source]](https://github.com/spring/spring)
 
 ## Common Lisp
