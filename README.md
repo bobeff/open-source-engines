@@ -6,6 +6,7 @@
 - [C#](#c-sharp)
 - [C++](#cpp)
 - [Common Lisp](#common-lisp)
+- [Go](#go)
 - [JavaScript](#javascript)
 - [Lua](#lua)
 - [Pascal](#pascal)
@@ -44,6 +45,10 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 ## Common Lisp
 
 - **Trial** - A game engine written in Common Lisp. [[source]](https://github.com/Shirakumo/trial)
+
+## Go
+
+- **[Ebitengine](https://ebitengine.org)** - A dead simple 2D game engine for Go. [[source]](https://github.com/hajimehoshi/ebiten)
 
 ## JavaScript
 
