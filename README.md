@@ -47,6 +47,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[Spring](https://springrts.com)** - A free RTS game engine. [[source]](https://github.com/spring/spring)
 
+- **[Torque](https://torque3d.org)** - A completely free, open-source, game engin. [[source]](https://github.com/TorqueGameEngines)
+
 ## Common Lisp
 
 - **Trial** - A game engine written in Common Lisp. [[source]](https://github.com/Shirakumo/trial)
