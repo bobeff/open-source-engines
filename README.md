@@ -63,6 +63,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[Phaser](https://phaser.io)** - A fast, free and fun open source framework for **Canvas** ans **WebGL** powered browser games. [[source]](https://github.com/photonstorm/phaser)
 
+- **[Three.js](https://threejs.org/)** - An easy-to-use, lightweight, cross-browser, general-purpose 3D library. [[source]](https://github.com/mrdoob/three.js)
+
 ## Lua
 
 - **[LÖVE](https://love2d.org)** - An *awesome* framework you can use to make 2D games in Lua. [[source]](https://github.com/love2d/love)
