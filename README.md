@@ -41,6 +41,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[Minetest](https://www.minetest.net)** - An open source voxel game engine. [[source]](https://github.com/minetest/minetest)
 
+- **Nebula** - An open-source and free-to-use modern C++ game engine. [[source]](https://github.com/gscept/nebula)
+
 - **[O3DE](https://o3de.org)** - The open source, real-time 3D engine. [[source]](https://github.com/o3de/o3de)
 
 - **[Ogre](https://www.ogre3d.org)** - One of the most popular open-source graphics rendering engines. [[source]](https://github.com/OGRECave/ogre)
