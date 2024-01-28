@@ -33,6 +33,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 ## C++ <span id="cpp">
 
+- **[Cafu](https://www.cafu.de)** - A game and graphics engine for multiplayer, cross-platform, real-time 3D action. [[source]](https://bitbucket.org/cafu/cafu/src/master)
+
 - **[Cocos2d-x](https://www.cocos.com/en/cocos2d-x)** - Open-source, flexible, and lightweight 2D game engine. [[source]](https://github.com/cocos2d/cocos2d-x)
 
 - **[Godot](https://godotengine.org)** - A free, all-in-one, cross-platform game engine that makes it easy for you to create 2D and 3D games. [[source]](https://github.com/godotengine/godot)
