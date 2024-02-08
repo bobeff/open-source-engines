@@ -56,6 +56,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **Serious Engine v.1.10** [[source]](https://github.com/Croteam-official/Serious-Engine)
 
+- **[Solarus](https://www.solarus-games.org/)** - A lightweight, multiplatform, free and open-source 2D game engine. [[engine]](https://gitlab.com/solarus-games/solarus)
+
 - **[Spring](https://springrts.com)** - A free RTS game engine. [[source]](https://github.com/spring/spring)
 
 - **[Torque](https://torque3d.org)** - A completely free, open-source, game engin. [[source]](https://github.com/TorqueGameEngines)
