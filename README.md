@@ -17,6 +17,8 @@
 
 - **[raylib](https://www.raylib.com)** -  A simple and easy-to-use library to enjoy videogames programming. [[source]](https://github.com/raysan5/raylib)
 
+- **SGDK** - A free development kit allowing development of software in C language for the Sega Mega Drive. [[source]](https://github.com/Stephane-D/SGDK)
+
 - **[Simple DirectMedia Layer](https://github.com/libsdl-org)** - a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware. [[source]](https://github.com/libsdl-org/SDL)
 
 - **Xash3D FWGS Engine** - Xash3D FWGS is a game engine, aimed to provide compatibility with Half-Life Engine and extend it, as well as to give game developers well known workflow. [[source]](https://github.com/FWGS/xash3d-fwgs)
