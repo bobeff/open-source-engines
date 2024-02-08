@@ -54,6 +54,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[SFML](https://www.sfml-dev.org)** -  A simple interface to the various components of your PC, to ease the development of games and multimedia applications. [[source]](https://github.com/SFML/SFML)
 
+- **Serious Engine v.1.10** [[source]](https://github.com/Croteam-official/Serious-Engine)
+
 - **[Spring](https://springrts.com)** - A free RTS game engine. [[source]](https://github.com/spring/spring)
 
 - **[Torque](https://torque3d.org)** - A completely free, open-source, game engin. [[source]](https://github.com/TorqueGameEngines)
