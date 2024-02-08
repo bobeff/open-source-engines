@@ -17,7 +17,6 @@
 
 - **[raylib](https://www.raylib.com)** -  A simple and easy-to-use library to enjoy videogames programming. [[source]](https://github.com/raysan5/raylib)
 
-
 - **[Simple DirectMedia Layer](https://github.com/libsdl-org)** - a cross-platform development library designed to provide low level access to audio, keyboard, mouse, joystick, and graphics hardware. [[source]](https://github.com/libsdl-org/SDL)
 
 - **Xash3D FWGS Engine** - Xash3D FWGS is a game engine, aimed to provide compatibility with Half-Life Engine and extend it, as well as to give game developers well known workflow. [[source]](https://github.com/FWGS/xash3d-fwgs)
@@ -36,6 +35,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 - **[Cafu](https://www.cafu.de)** - A game and graphics engine for multiplayer, cross-platform, real-time 3D action. [[source]](https://bitbucket.org/cafu/cafu/src/master)
 
 - **[Cocos2d-x](https://www.cocos.com/en/cocos2d-x)** - Open-source, flexible, and lightweight 2D game engine. [[source]](https://github.com/cocos2d/cocos2d-x)
+
+- **[FIFE](https://www.fifengine.net)** - A free, open-source cross-platform game engine. [[source]](https://github.com/fifengine/fifengine)
 
 - **[Godot](https://godotengine.org)** - A free, all-in-one, cross-platform game engine that makes it easy for you to create 2D and 3D games. [[source]](https://github.com/godotengine/godot)
 
