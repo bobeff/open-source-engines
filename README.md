@@ -7,6 +7,7 @@
 - [C++](#cpp)
 - [Common Lisp](#common-lisp)
 - [Go](#go)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Lua](#lua)
 - [Pascal](#pascal)
@@ -69,6 +70,10 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 ## Go
 
 - **[Ebitengine](https://ebitengine.org)** - A dead simple 2D game engine for Go. [[source]](https://github.com/hajimehoshi/ebiten)
+
+## Java
+
+- **[libJDX](https://libgdx.com)** - A cross-platform Java game development framework. [[source]](https://github.com/libgdx/libgdx)
 
 ## JavaScript
 
