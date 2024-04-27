@@ -100,3 +100,5 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 - **[Amethyst](https://amethyst.rs)** - Data-driven game engine written in Rust. [[source]](https://github.com/amethyst/amethyst)
 
 - **[Bevy](https://bevyengine.org)** - A refreshingly simple data-driven game engine built in Rust. [[source]](https://github.com/bevyengine/bevy)
+
+- **[Fyrox](https://fyrox.rs)** - 3D and 2D game engine written in Rust. [[source]](https://github.com/FyroxEngine/Fyrox)
