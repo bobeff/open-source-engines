@@ -13,6 +13,7 @@
 - [Pascal](#pascal)
 - [Python](#python)
 - [Rust](#rust)
+- [Zig](#zig)
 
 ## C
 
@@ -104,3 +105,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 - **[Fyrox](https://fyrox.rs)** - 3D and 2D game engine written in Rust. [[source]](https://github.com/FyroxEngine/Fyrox)
 
 - **[Macroquad](https://macroquad.rs)** - Simple and easy to use game library for Rust programming language. [[source]](https://github.com/not-fl3/macroquad)
+
+## [Zig](https://github.com/ziglang/zig)
+
+
+- **[Cubyz](https://github.com/PixelGuys/Cubyz)** - Cubyz is a fully written in the Zig language. Voxel sandbox game with a large render distance, procedurally generated content and some cool graphical effects.[[source]](https://github.com/PixelGuys/Cubyz)
