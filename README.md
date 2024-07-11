@@ -63,6 +63,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[Torque](https://torque3d.org)** - A completely free, open-source, game engin. [[source]](https://github.com/TorqueGameEngines)
 
+- **[Unreal Engine](https://www.unrealengine.com/)** - The world's most advanced real-time 3D game engine with limitless capabilities. [[source]](https://www.unrealengine.com/en-US/ue-on-github)
+
 ## Common Lisp
 
 - **Trial** - A game engine written in Common Lisp. [[source]](https://github.com/Shirakumo/trial)
