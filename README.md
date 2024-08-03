@@ -84,6 +84,7 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 ## Lua
 
 - **[LÖVE](https://love2d.org)** - An *awesome* framework you can use to make 2D games in Lua. [[source]](https://github.com/love2d/love)
+- **[Gideros](https://www.gideros.rocks/)** - A complete framework you can use to make 2D games and apps in Lua with instant on-device testing: exports to Windows, Linux, MacOs, iOS, Android, HTML5. [[source]](https://github.com/gideros/gideros)
 
 ## Pascal
 
