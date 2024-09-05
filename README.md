@@ -45,6 +45,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[FIFE](https://www.fifengine.net)** - A free, open-source cross-platform game engine. [[source]](https://github.com/fifengine/fifengine)
 
+- **[JNGL - Just a Neat Game Library](https://bixense.com/jngl)** - Easy to use cross-platform 2D game library for C++. [[source]](https://github.com/jhasse/jngl)
+
 - **[Godot](https://godotengine.org)** - A free, all-in-one, cross-platform game engine that makes it easy for you to create 2D and 3D games. [[source]](https://github.com/godotengine/godot)
 
 - **[Irrlicht](https://irrlicht.sourceforge.io)** - An open source realtime 3D engine. [[source]](https://github.com/zaki/irrlicht)
