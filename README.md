@@ -4,6 +4,7 @@
 
 - [C](#c)
 - [C#](#c-sharp)
+- [Clojure](#clojure)
 - [C++](#cpp)
 - [Common Lisp](#common-lisp)
 - [Go](#go)
@@ -68,6 +69,10 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 - **[Spring](https://springrts.com)** - A free RTS game engine. [[source]](https://github.com/spring/spring)
 
 - **[Torque](https://torque3d.org)** - A completely free, open-source, game engin. [[source]](https://github.com/TorqueGameEngines)
+
+## Clojure
+
+- **core** - Аn experimental new way to write videogames in the form of an Action-RPG Maker Tool & Engine & Property-Editor.
 
 ## Common Lisp
 
