@@ -7,6 +7,7 @@
 - [Clojure](#clojure)
 - [C++](#cpp)
 - [Common Lisp](#common-lisp)
+- [F#](#f-sharp)
 - [Go](#go)
 - [Java](#java)
 - [JavaScript](#javascript)
@@ -77,6 +78,10 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 ## Common Lisp
 
 - **Trial** - A game engine written in Common Lisp. [[source]](https://github.com/Shirakumo/trial)
+
+## F# <span id="f-sharp">
+
+- **Nu** - Nu Game Engine. [[source]](https://github.com/bryanedds/Nu)
 
 ## Go
 
