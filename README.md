@@ -105,6 +105,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[LÖVR](https://lovr.org)** - An open source framework for rapidly building immersive 3D experiences. [[source]](https://github.com/bjornbytes/lovr)
 
+- **[Solar2D](https://solar2d.com)** - A Lua based game engine with focus on ease of iterations and usage. [[source]](https://github.com/coronalabs/corona)
+
 ## Pascal
 
 - **[Castle Game Engine](https://castle-engine.io)** - Cross-platform (desktop, mobile, console) 3D and 2D game engine. [[source]](https://github.com/castle-engine/castle-engine)
