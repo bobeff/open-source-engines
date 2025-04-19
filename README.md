@@ -43,6 +43,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[Cocos2d-x](https://www.cocos.com/en/cocos2d-x)** - Open-source, flexible, and lightweight 2D game engine. [[source]](https://github.com/cocos2d/cocos2d-x)
 
+- **[Defold](https://defold.com)** - The game engine for high-performance cross-platform games. [[source]](https://github.com/defold/defold)
+
 - **[Esoterica Engine](https://www.esotericaengine.com)** -  An MIT licensed starter game engine framework. [[source]](https://github.com/BobbyAnguelov/Esoterica)
 
 - **[FIFE](https://www.fifengine.net)** - A free, open-source cross-platform game engine. [[source]](https://github.com/fifengine/fifengine)
