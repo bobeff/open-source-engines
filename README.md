@@ -41,6 +41,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[Cafu](https://www.cafu.de)** - A game and graphics engine for multiplayer, cross-platform, real-time 3D action. [[source]](https://bitbucket.org/cafu/cafu/src/master)
 
+- **[Carimbo](https://carimbo.site)** - A lightweight 2D game engine written in modern C++. [[source]](https://github.com/willtobyte/carimbo)
+
 - **[Cocos2d-x](https://www.cocos.com/en/cocos2d-x)** - Open-source, flexible, and lightweight 2D game engine. [[source]](https://github.com/cocos2d/cocos2d-x)
 
 - **[Cute Framework](https://randygaul.github.io/cute_framework/#)** - The cutest framework available for making 2D games in C++. [[source]](https://github.com/RandyGaul/cute_framework)
