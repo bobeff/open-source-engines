@@ -45,6 +45,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[Cocos2d-x](https://www.cocos.com/en/cocos2d-x)** - Open-source, flexible, and lightweight 2D game engine. [[source]](https://github.com/cocos2d/cocos2d-x)
 
+- **[Crown](https://www.crownengine.org)** - A complete and cross-platform game engine designed for flexibility, performance and fast-iterations. [[source]](https://github.com/crownengine/crown)
+
 - **[Cute Framework](https://randygaul.github.io/cute_framework/#)** - The cutest framework available for making 2D games in C++. [[source]](https://github.com/RandyGaul/cute_framework)
 
 - **[Defold](https://defold.com)** - The game engine for high-performance cross-platform games. [[source]](https://github.com/defold/defold)
