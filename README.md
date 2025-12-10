@@ -79,7 +79,7 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[Spring](https://springrts.com)** - A free RTS game engine. [[source]](https://github.com/spring/spring)
 
-- **[Torque](https://torque3d.org)** - A completely free, open-source, game engin. [[source]](https://github.com/TorqueGameEngines)
+- **[Torque](https://torque3d.org)** - A completely free, open-source, game engine. [[source]](https://github.com/TorqueGameEngines)
 
 ## Clojure
 
@@ -105,7 +105,7 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[Kaplay](https://kaplayjs.com)** - A JavaScript/TypeScript Game Library that feels like a game. [[source]](https://github.com/kaplayjs/kaplay)
 
-- **[Phaser](https://phaser.io)** - A fast, free and fun open source framework for **Canvas** ans **WebGL** powered browser games. [[source]](https://github.com/photonstorm/phaser)
+- **[Phaser](https://phaser.io)** - A fast, free and fun open source framework for **Canvas** and **WebGL** powered browser games. [[source]](https://github.com/photonstorm/phaser)
 
 - **[Three.js](https://threejs.org/)** - An easy-to-use, lightweight, cross-browser, general-purpose 3D library. [[source]](https://github.com/mrdoob/three.js)
 
