@@ -71,6 +71,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[Ogre](https://www.ogre3d.org)** - One of the most popular open-source graphics rendering engines. [[source]](https://github.com/OGRECave/ogre)
 
+- **[Redot](https://www.redotengine.org/)** - A 2D and 3D innovative free and open-source cross platform game engine with C++, C# and GDScript support. [\[source\]](https://github.com/Redot-Engine/redot-engine)
+
 - **[SFML](https://www.sfml-dev.org)** -  A simple interface to the various components of your PC, to ease the development of games and multimedia applications. [[source]](https://github.com/SFML/SFML)
 
 - **Serious Engine v.1.10** [[source]](https://github.com/Croteam-official/Serious-Engine)
@@ -80,6 +82,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 - **[Spring](https://springrts.com)** - A free RTS game engine. [[source]](https://github.com/spring/spring)
 
 - **[Torque](https://torque3d.org)** - A completely free, open-source, game engin. [[source]](https://github.com/TorqueGameEngines)
+
+- **[Wicked Engine](https://wickedengine.net/)** - A 3D open-source engine with modern graphics. [\[source\]](https://github.com/turanszkij/WickedEngine) 
 
 ## Clojure
 
@@ -128,6 +132,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 - **[Pygame](https://www.pygame.org)** - A free and open-source cross-platform library for the development of multimedia applications like video games using Python. [[source]](https://github.com/pygame/pygame)
 
 - **[Pyxel](https://www.pyxelstudio.net)** - A retro game engine for Python. [[source]](https://github.com/kitao/pyxel)
+
+- **[Range Engine](https://rangeengine.tech/)** - A free and open-source game engine integrated with Blender for Python. [\[source\]](https://github.com/rangeengine/rangeengine.github.io/)
 
 ## Rust
 
