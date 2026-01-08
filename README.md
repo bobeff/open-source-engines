@@ -79,7 +79,7 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[Spring](https://springrts.com)** - A free RTS game engine. [[source]](https://github.com/spring/spring)
 
-- **[Torque](https://torque3d.org)** - A completely free, open-source, game engin. [[source]](https://github.com/TorqueGameEngines)
+- **[Torque](https://torque3d.org)** - A completely free, open-source, game engine. [[source]](https://github.com/TorqueGameEngines)
 
 ## Clojure
 
