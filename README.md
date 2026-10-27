@@ -119,6 +119,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 - **[Solar2D](https://solar2d.com)** - A Lua based game engine with focus on ease of iterations and usage. [[source]](https://github.com/coronalabs/corona)
 
+- **[Vectarine](https://vectarineengine.com)** - The cross-platform Luau game engine focusing on ultra fast prototyping and having fun. [[source]](https://github.com/vanyle/vectarine)
+
 ## Pascal
 
 - **[Castle Game Engine](https://castle-engine.io)** - Cross-platform (desktop, mobile, console) 3D and 2D game engine. [[source]](https://github.com/castle-engine/castle-engine)
