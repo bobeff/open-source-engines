@@ -41,6 +41,8 @@ powerful cross-platform games. [[source]](https://github.com/MonoGame/MonoGame)
 
 ## C++ <span id="cpp">
 
+- **[Brakeza3D](https://brakeza.com)** - A 2D/3D game engine with an OpenGL 4.3 deferred renderer, an ImGui editor and Lua scripting. [[source]](https://github.com/rzeronte/brakeza3d)
+
 - **[Cafu](https://www.cafu.de)** - A game and graphics engine for multiplayer, cross-platform, real-time 3D action. [[source]](https://bitbucket.org/cafu/cafu/src/master)
 
 - **[Carimbo](https://carimbo.site)** - A lightweight 2D game engine written in modern C++. [[source]](https://github.com/willtobyte/carimbo)
